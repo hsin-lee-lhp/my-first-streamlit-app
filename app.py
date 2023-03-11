@@ -1,7 +1,7 @@
+
+import streamlit as st
 import sklearn
 import plotly
-import streamlit as st
-
 
 st.header('GIẢI PHƯƠNG TRÌNH BẬC NHẤT')
 numbera= st.number_input('Tham số a')
